@@ -1,2 +1,2 @@
 # git-out
-**Toto je subor citaj ma**
+*Toto je subor citaj ma*
